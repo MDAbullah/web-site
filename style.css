@@ -1,0 +1,19 @@
+.color{
+    color: white;
+    background-color: rgb(91, 94, 96);
+ padding: 5px;
+ display: flex;
+ 
+ 
+}
+body{
+    margin:0 auto;
+}
+.item{
+    margin-left: 15px;
+    font-weight: 700;
+}
+.color p{
+font-weight: 700;
+margin-left: 5px;
+}
