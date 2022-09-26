@@ -18,7 +18,7 @@ font-weight: 700;
 margin-left: 5px;
 }
 .all{
-    color: wheat;
+    background-color: white;
 }
 .head{
     display: flex;
@@ -32,3 +32,59 @@ margin-left: 5px;
     font-size: 20px;
     margin-right: 10px;
 }
+.all-div{
+    background-color: white;
+    margin-top: 70px;
+    margin-left: 550px;
+    margin-right: 550px;
+    border-right: 1px solid black;
+    padding: 5px;
+
+    
+}
+.h{
+font-weight: 50px;
+    font-size: 30px;
+   
+}
+.aaa{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+  
+}
+.jjj{
+    text-align: center;
+    
+}
+.ppp{
+  font-style: italic;
+  font-size: 17px;
+  text-align: justify;
+
+  line-height: 25px;
+  font-weight: 200;
+}
+.ipsum{
+font-style: italic;
+
+text-decoration: underline;
+}
+.list{
+    text-align: justify;
+    line-height: 25px;
+}
+.google{
+    text-decoration: none;
+    color: palevioletred;
+}
+.last{background-color: rgb(91, 94, 96);
+color: rgb(91, 94, 96) ;
+    
+    padding: 3px;
+}
+.border{
+    box-shadow: 2px 0px 2px 0px;
+}
+
+    
